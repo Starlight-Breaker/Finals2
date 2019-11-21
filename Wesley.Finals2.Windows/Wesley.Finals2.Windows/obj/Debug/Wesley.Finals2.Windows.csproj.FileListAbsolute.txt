@@ -1,0 +1,14 @@
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\Wesley.Finals2.Windows.csprojAssemblyReference.cache
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\App.g.cs
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\Wesley.Finals2.Windows_MarkupCompile.cache
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\Wesley.Finals2.Windows.g.resources
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\Wesley.Finals2.Windows.Properties.Resources.resources
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\Wesley.Finals2.Windows.csproj.GenerateResource.cache
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\Wesley.Finals2.Windows.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\bin\Debug\Wesley.Finals2.Windows.exe.config
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\bin\Debug\Wesley.Finals2.Windows.exe
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\bin\Debug\Wesley.Finals2.Windows.pdb
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\Wesley.Finals2.Windows.exe
+C:\Users\COMLABPC6\source\repos\Wesley.Finals2.Windows\Wesley.Finals2.Windows\obj\Debug\Wesley.Finals2.Windows.pdb
